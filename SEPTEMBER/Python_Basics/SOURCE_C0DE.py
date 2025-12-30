@@ -14,3 +14,9 @@ print(2/2)
 import keyword
 print(keyword.kwlist)
 
+##
+d=45
+f=56
+print(d+f)
+
+

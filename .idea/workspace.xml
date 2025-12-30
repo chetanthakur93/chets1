@@ -5,13 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b8e504a2-02bc-495d-9840-54a889e5eb88" name="Changes" comment="9thsept25">
-      <change afterPath="$PROJECT_DIR$/SEPTEMBER/Python_Basics/Loop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SEPTEMBER/Python_Basics/Loop3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SEPTEMBER/Python_Basics/Loop_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SEPTEMBER/Python_Basics/Operator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SEPTEMBER/Python_Basics/operator_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DECEMEBR_2025/FUNCTIONS/12-30-25.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DECEMEBR_2025/FUNCTIONS/Function_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DECEMEBR_2025/FUNCTIONS/REVISE.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DECEMEBR_2025/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SEPTEMBER/Python_Basics/12_DEC_25.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SEPTEMBER/Python_Basics/Loop_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SEPTEMBER/Python_Basics/loop_5.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SEPTEMBER/Python_Basics/Test_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/SEPTEMBER/Python_Basics/Test_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SEPTEMBER/Python_Basics/SOURCE_C0DE.py" beforeDir="false" afterPath="$PROJECT_DIR$/SEPTEMBER/Python_Basics/SOURCE_C0DE.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +28,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -51,32 +58,63 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.Loop.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Loop3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Loop_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Operator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.SOURCE_C0DE.executor&quot;: &quot;Run&quot;,
-    &quot;Python.TEST-1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Test4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Test_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Test_3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.operator_1.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.12-30-25.executor": "Run",
+    "Python.12_DEC_25.executor": "Run",
+    "Python.DEC_25.executor": "Run",
+    "Python.For_Loop_6.executor": "Run",
+    "Python.Loop.executor": "Run",
+    "Python.Loop3.executor": "Run",
+    "Python.Loop_2.executor": "Run",
+    "Python.Loop_4.executor": "Run",
+    "Python.Loop_6.executor": "Run",
+    "Python.Loop_7.executor": "Run",
+    "Python.Operator.executor": "Run",
+    "Python.REVISE.executor": "Run",
+    "Python.SOURCE_C0DE.executor": "Run",
+    "Python.TEST-1.executor": "Run",
+    "Python.Test4.executor": "Run",
+    "Python.Test_2.executor": "Run",
+    "Python.Test_3.executor": "Run",
+    "Python.loop_5.executor": "Run",
+    "Python.operator_1.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "DEC__25",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
+    <configuration name="For_Loop_6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="chets1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SEPTEMBER/Python_Basics" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SEPTEMBER/Python_Basics/For_Loop_6.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="SOURCE_C0DE" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="chets1" />
       <option name="ENV_FILES" value="" />
@@ -103,6 +141,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.SOURCE_C0DE" />
+        <item itemvalue="Python.For_Loop_6" />
       </list>
     </recent_temporary>
   </component>
@@ -171,7 +210,23 @@
       <option name="project" value="LOCAL" />
       <updated>1757857030641</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="9thsept25">
+      <option name="closed" value="true" />
+      <created>1760244675705</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1760244675705</updated>
+    </task>
+    <task id="LOCAL-00007" summary="9thsept25">
+      <option name="closed" value="true" />
+      <created>1766565727463</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1766565727463</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -181,6 +236,16 @@
     <MESSAGE value="Initial commit" />
     <MESSAGE value="9thsept25" />
     <option name="LAST_COMMIT_MESSAGE" value="9thsept25" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/SEPTEMBER/Python_Basics/Test_3.py</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/chets1$operator_1.coverage" NAME="operator_1 Coverage Results" MODIFIED="1758268213577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SEPTEMBER/Python_Basics" />
