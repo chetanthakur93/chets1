@@ -5,15 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b8e504a2-02bc-495d-9840-54a889e5eb88" name="Changes" comment="9thsept25">
-      <change afterPath="$PROJECT_DIR$/DECEMEBR_2025/FUNCTIONS/12-30-25.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DECEMEBR_2025/FUNCTIONS/Function_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DECEMEBR_2025/FUNCTIONS/REVISE.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DECEMEBR_2025/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SEPTEMBER/Python_Basics/12_DEC_25.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SEPTEMBER/Python_Basics/Loop_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SEPTEMBER/Python_Basics/loop_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DECEMEBR_2025/FUNCTIONS/Function_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DECEMEBR_2025/FUNCTIONS/Function_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DECEMEBR_2025/FUNCTIONS/Function_4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SEPTEMBER/Python_Basics/SOURCE_C0DE.py" beforeDir="false" afterPath="$PROJECT_DIR$/SEPTEMBER/Python_Basics/SOURCE_C0DE.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DECEMEBR_2025/FUNCTIONS/Function_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/DECEMEBR_2025/FUNCTIONS/Function_1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,6 +61,9 @@
     "Python.12_DEC_25.executor": "Run",
     "Python.DEC_25.executor": "Run",
     "Python.For_Loop_6.executor": "Run",
+    "Python.Function_1.executor": "Run",
+    "Python.Function_2.executor": "Run",
+    "Python.Function_4.executor": "Run",
     "Python.Loop.executor": "Run",
     "Python.Loop3.executor": "Run",
     "Python.Loop_2.executor": "Run",
@@ -89,10 +88,11 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "inlay.hints",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.Function_4">
     <configuration name="For_Loop_6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="chets1" />
       <option name="ENV_FILES" value="" />
@@ -107,6 +107,50 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SEPTEMBER/Python_Basics/For_Loop_6.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Function_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="chets1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DECEMEBR_2025/FUNCTIONS" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DECEMEBR_2025/FUNCTIONS/Function_2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Function_4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="chets1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DECEMEBR_2025/FUNCTIONS" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DECEMEBR_2025/FUNCTIONS/Function_4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -140,6 +184,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Function_4" />
+        <item itemvalue="Python.Function_2" />
         <item itemvalue="Python.SOURCE_C0DE" />
         <item itemvalue="Python.For_Loop_6" />
       </list>
@@ -226,7 +272,15 @@
       <option name="project" value="LOCAL" />
       <updated>1766565727463</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="9thsept25">
+      <option name="closed" value="true" />
+      <created>1767094576904</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1767094576904</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -243,6 +297,11 @@
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/SEPTEMBER/Python_Basics/Test_3.py</url>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DECEMEBR_2025/FUNCTIONS/Function_1.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
